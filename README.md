@@ -22,3 +22,9 @@ Youtube Channel [MakingGamesWithBen](https://www.youtube.com/@makinggameswithben
 # Original Tutorial Videos
 Available on Youtube 
 [Advanced C++ Game Tutorial](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW)
+
+# Screenshots
+![Game Shot One](assets/game_shot_01.webp)
+#
+![Game Shot Two](assets/game_shot_02.webp)
+#
