@@ -15,3 +15,10 @@ meson setup ..
 ninja
 ./zombie-game
 ```
+# Credits
+Original Game on GitHub [Barnold1953](https://github.com/Barnold1953/GraphicsTutorials/tree/master/ZombieGame) <br>
+Youtube Channel [MakingGamesWithBen](https://www.youtube.com/@makinggameswithben)
+
+# Original Tutorial Videos
+Available on Youtube 
+[Advanced C++ Game Tutorial](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW)
